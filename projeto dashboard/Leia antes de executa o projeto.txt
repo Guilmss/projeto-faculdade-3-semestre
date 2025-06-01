@@ -1,0 +1,15 @@
+Olá, esse aqui é minha dashboard que fiz como projeto do meu terceiro periudo do meu curso de ADS,
+gostaria que avaliace com carinho pois fiz esse trabalho sozinho, logo assim já pesso desculpa pelo front-end, 
+não sou bom com parte visual e esse é um dos meus primeiros trabalhos com python, eu só tenho um curso feito nesse presente momento
+más já estou estudando mais para aprimora meu conhecimento, pois eu acho python uma linguagem muito legal para ser aprendida...
+
+Esse são os logins funcionas da aplicação:
+Usuário - ( func1,   ana.vendas, admin , boss  )
+ senhas - ( senha123, vendas234, admin, boss1337 )
+ 
+comando para executar a aplicação:
+ py -m streamlit run dashboard/app.py
+
+ Obs: a aplicação esta hospedada na nuvem do streamlit, Mais não do garatina 100% que vai estar no ar 
+
+link: https://sladash.streamlit.app/
