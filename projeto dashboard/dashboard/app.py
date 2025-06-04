@@ -5,7 +5,6 @@ import os
 
 st.set_page_config(layout="wide", page_title="Dashboard de Análise de Vendas")
 
-# --- ESTILIZAÇÃO COM CSS ---
 st.markdown("""
 <style>
     .stMetric {
@@ -22,7 +21,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-# --- LÓGICA PRINCIPAL DO APLICATIVO ---
+
 def main():
     if "view" not in st.session_state:
         st.session_state.view = "Login"
