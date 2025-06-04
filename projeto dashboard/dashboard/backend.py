@@ -22,7 +22,7 @@ COL_PERCENTUAL_DESCONTO = 'Percentual de Desconto'
 COL_SENTIMENTO = 'Sentimento'
 COL_PRECO = 'Preço Original'
 
-# --- DADOS DE USUÁRIOS (Em um app real, isso viria de um banco de dados ou config seguro) ---
+# --- DADOS DE USUÁRIOS (exemplo)
 USUARIOS_FUNCIONARIOS = {
     "func1": {"password": "senha123", "can_see_details": True, "active": True},
     "ana.vendas": {"password": "vendas234", "can_see_details": False, "active": True}
