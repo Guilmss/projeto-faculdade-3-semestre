@@ -31,8 +31,9 @@ Atualmente, possuo um curso de Python concluído e estou continuamente estudando
     *   A aplicação será aberta automaticamente no seu navegador padrão.
 
 ## Acesso à Aplicação na Nuvem (Streamlit Cloud) 
-* * Recomendo acessa por esse * * 
-A dashboard também está disponível online através do Streamlit Cloud:
+* Recomendo acessar por esse aqui
+
+* A dashboard também está disponível online através do Streamlit Cloud:
 
 *   **Link:** https://sladash.streamlit.app/
 
