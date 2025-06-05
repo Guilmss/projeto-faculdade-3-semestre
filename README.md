@@ -6,6 +6,18 @@ Este trabalho foi realizado individualmente, e como um dos meus primeiros projet
 
 Atualmente, possuo um curso de Python concluído e estou continuamente estudando para aprimorar meus conhecimentos, pois considero Python uma linguagem muito interessante e poderosa.
 
+# Sobre o Projeto
+
+Este projeto é uma dashboard de análise de vendas, desenvolvido como trabalho extensionista do 3º semestre da faculdade. O objetivo principal é fornecer visualizações intuitivas e relatórios detalhados sobre o desempenho de vendas, facilitando a tomada de decisões e o acompanhamento dos resultados.
+
+A aplicação foi construída em Python e busca tornar a análise de dados de vendas mais acessível e eficiente em gestão comercial.
+
+## Principais funcionalidades:
+
+* Visualização de métricas e gráficos de vendas
+* Geração de relatórios personalizados
+* Interface simples e fácil de usar
+
 ## Tecnologias Utilizadas
 
 *   Python
