@@ -58,7 +58,7 @@ Os dados para esta dashboard foram obtidos do seguinte dataset público no Kaggl
 
 *   **Amazon Sales Dataset:** https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset
 
-* **Observação Importante:** Não sabia que foi feito por um indiano então se alguns valores se estiver muito alto ou baixo de mais foi por isso 😅 
+* **Observação Importante:** Não sabia que foi feito por um indiano então se alguns valores estiver muito alto ou baixo de mais foi por isso 😅 
 ---
 
 *Avaliem com carinho!* 😊
