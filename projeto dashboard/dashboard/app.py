@@ -5,6 +5,7 @@ import os
 
 st.set_page_config(layout="wide", page_title="Dashboard de Análise de Vendas")
 
+# --- ESTILOS CSS GLOBAIS ---
 st.markdown("""
 <style>
     .stMetric {
@@ -34,14 +35,13 @@ def main():
     if st.session_state["logged_in"]:
         exibir_dashboard_completo()
     else:
-        with st.sidebar: # Menu para não logados
-            # Adicionar a logo na tela de login
+        with st.sidebar:
             script_dir = os.path.dirname(os.path.abspath(__file__))
             logo_path = os.path.join(script_dir, "SLA.png")
 
             try:
                 if os.path.exists(logo_path):
-                    st.image(logo_path, use_container_width=True) # Usar st.image para a sidebar
+                    st.image(logo_path, use_container_width=True)
                 else:
                     st.warning(f"Logo não encontrada: {logo_path}")
             except Exception as e:
